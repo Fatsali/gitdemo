@@ -3,8 +3,12 @@ package git_test1;
 public class GitDemo {
 
 	public static void main(String[] args) {
-		System.out.println("Bugünü anlayabilecem mi acaba?");
-		System.out.println("Çalışırsam anlarım inşallah.");
+		System.out.println("BugÃ¼nÃ¼ anlayabilecem mi acaba?");
+		System.out.println("Ã‡alÃ½Ã¾Ã½rsam anlarÃ½m inÃ¾allah.");
+		System.out.println("Bravo Murat abi");
+		
+		
+		
 	}
 
 }

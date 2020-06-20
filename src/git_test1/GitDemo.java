@@ -5,7 +5,7 @@ public class GitDemo {
 	public static void main(String[] args) {
 		System.out.println("Bugünü anlayabilecem mi acaba?");
 		System.out.println("Çalýþýrsam anlarým inþallah.");
-		System.out.println("Bravo Murat abi");
+		System.out.println("Perişan ettin bizi Mustafa  abi desem ayıp olur");
 		
 		
 		
